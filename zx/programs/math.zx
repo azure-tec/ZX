@@ -1,0 +1,16 @@
+pt|math demo
+pt| 
+m+|1|2|a
+pt|v>a
+m-|4|2|a
+pt|4 - 2 =
+pt|v>a
+m-|3|2|a
+pt|3 * 2 =
+pt|v>a
+m/|10|5|a
+pt|10 / 5 =
+pt|v>a
+rn|101|a
+pt|Random number (0-100)
+pt|a
